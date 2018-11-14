@@ -25,5 +25,6 @@ RoxygenNote: 6.0.1
 Imports: parallel,stats,mgcv,gamm4,oro.nifti,ggplot2,methods,purrr
 Suggests: covr, testthat
 biocViews:
+Repository: Neuroconductor
 Remotes: 
-    neuroconductor/oro.nifti@abbfadf8976d2c29f518c76580d9095d3994439e
+    neuroconductor/oro.nifti@f2b69621fdb62e21c79a13e8a16ab30f49b77efc
