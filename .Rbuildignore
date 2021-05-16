@@ -4,3 +4,8 @@
 ^cran-comments\.md$
 ^README\.md$
 ^appveyor\.yml$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
